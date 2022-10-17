@@ -3,9 +3,9 @@ Statistical Machine Learning Approaches to Liver Disease Prediction
 
 ## TEAM MEMBERS
 - SANJAY R [ Team Leader ]
-- MYTHEESH C
-- PARITHI MALAVAN G
-- RAGUNATH S D
+- MYTHEESH C [Member 2]
+- PARITHI MALAVAN G [ Member 3]
+- RAGUNATH S D [Member 4]
 
 ## Note
 
