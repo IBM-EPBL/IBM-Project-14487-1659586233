@@ -6,8 +6,6 @@
   </p>
 
 
-
-
 <!-- Description -->
 
 # 📝 PROJECT DESCRIPTION
@@ -44,7 +42,7 @@ This Project examines data from liver patients concentrating on relationships be
 | ------------- | ------------- |
 | MYTHEESH C  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-14487-1659586233/tree/main/ASSESSMENT/MYTHEESH%20C">CLICK HERE!  </a></button>               
 | SANJAY R | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-14487-1659586233/tree/main/ASSESSMENT/SANJAY%20R">CLICK HERE!  </a> </button> |
-| PARITHIMALAVAN G    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-14487-1659586233/tree/main/ASSESSMENT/PARITHI%20MALAVAN%20G">CLICK HERE!  </a> </button> |
+| PARITHI MALAVAN G    | <button><a href="https://github.com/IBM-EPBL/IBM-Project-14487-1659586233/tree/main/ASSESSMENT/PARITHI%20MALAVAN%20G">CLICK HERE!  </a> </button> |
 | RAGUNATH S D     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-14487-1659586233/tree/main/ASSESSMENT/RAGUNATH%20S%20D">CLICK HERE!  </a> </button> |
 
 <hr>
